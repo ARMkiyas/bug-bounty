@@ -131,8 +131,7 @@ bugreader
 ## Deserialization of Untrusted Data（反序列化）
 - 🔥 [01 Remote Code Execution via Insecure Deserialization in Telerik UI](https://hackerone.com/reports/838196)
 
-## HTTP Request Smuggling(HTTP请求走私)
-- 🔥 [01 HTTP Request Smuggling on https://labs.data.gov](https://hackerone.com/reports/726773)
+
 
 
 ## Other
@@ -140,4 +139,4 @@ bugreader
 - 🔥 [02 Session works after logout from Shopify account and password of online store is displayed](https://hackerone.com/reports/837729)
 - 🔥 [03 Subdomain Takeover to Authentication bypass](https://hackerone.com/reports/335330)
 
-持续更新...
+
