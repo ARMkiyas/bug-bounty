@@ -24,6 +24,11 @@ bugreader
 ## XXE
 - 🔥 [01 XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877)
 - 🔥 [02 WooYun-2016-171295(用友某软件存在通用XXE漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0171295.html)
+- 🔥 [03 WooYun-2016-167778(用友致远A8协同系统XML实体注入漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0167778.html)
+- 🔥
+- 🔥
+- 🔥
+- 🔥
 - 🔥
 
 ## CSRF
@@ -52,7 +57,9 @@ bugreader
 - 🔥 [02 SQL Injection - https://███/█████████/MSI.portal](https://hackerone.com/reports/674838)
 - 🔥 [03 Followup - SQL Injection - https://██████████/██████/MSI.portal](https://hackerone.com/reports/692326)
 - 🔥 [04 SQL Injection in Login Page: https://█████/█████████/login.php](https://hackerone.com/reports/447742)
-
+- 🔥 [05 WooYun-2015-162385(用友GRP-U8通用SQL注入漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2015-0162385.html)
+- 🔥
+- 🔥
 
 
 
@@ -63,9 +70,7 @@ bugreader
 - 🔥 [04 labs.data.gov/dashboard/validate中的SSRF / XSPA](https://hackerone.com/reports/272095)
 - 🔥
 - 🔥
-- 🔥
-- 🔥
-- 🔥
+
 
 
 ## Race Condition
