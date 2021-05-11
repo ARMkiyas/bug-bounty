@@ -1,0 +1,3 @@
+- 🔥 [01 Arbitrary file read via the UploadsRewriter when moving and issue](https://hackerone.com/reports/827052)
+- 🔥 [02 [Total.js] Path traversal vulnerability allows to read files outside public directory](https://hackerone.com/reports/748765)
+- 🔥 [03 [https://███] Local File Inclusion via graph.php](https://hackerone.com/reports/492767)
