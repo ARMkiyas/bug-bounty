@@ -1,0 +1,2 @@
+- 🔥 [01 Internal IP Address Disclosed](https://hackerone.com/reports/707228)
+- 🔥 [02 Firewall rules for ████████ can be bypassed to leak site authors](https://hackerone.com/reports/743643)
