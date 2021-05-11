@@ -1,0 +1,1 @@
+- 🔥 [01 CVE-2019-9947 CRLF Injection in urllib](https://hackerone.com/reports/590020)
