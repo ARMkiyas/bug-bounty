@@ -1,0 +1,5 @@
+- 🔥 [01 SQL Injection on cookie parameter](https://hackerone.com/reports/761304)
+- 🔥 [02 SQL Injection - https://███/█████████/MSI.portal](https://hackerone.com/reports/674838)
+- 🔥 [03 Followup - SQL Injection - https://██████████/██████/MSI.portal](https://hackerone.com/reports/692326)
+- 🔥 [04 SQL Injection in Login Page: https://█████/█████████/login.php](https://hackerone.com/reports/447742)
+- 🔥 [05 WooYun-2015-162385(用友GRP-U8通用SQL注入漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2015-0162385.html)
