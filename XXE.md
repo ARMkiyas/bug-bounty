@@ -1,0 +1,4 @@
+- 🔥 [01 XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877)
+- 🔥 [02 WooYun-2016-171295(用友某软件存在通用XXE漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0171295.html)
+- 🔥 [03 WooYun-2016-167778(用友致远A8协同系统XML实体注入漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0167778.html)
+- 🔥
