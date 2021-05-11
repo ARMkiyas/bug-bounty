@@ -1,0 +1,1 @@
+- 🔥 [01 Remote Code Execution via Insecure Deserialization in Telerik UI](https://hackerone.com/reports/838196)
