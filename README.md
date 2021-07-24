@@ -11,7 +11,7 @@ bugreader
 - [CRLF](https://github.com/0wlsec/Vuln-Review/blob/main/CRLF.md)
 - [Code Injection](https://github.com/0wlsec/Vuln-Review/blob/main/Code%20Injection.md)
 - [Command Injection](https://github.com/0wlsec/Vuln-Review/blob/main/Command%20Injection.md)
-- [ClickJacking]()
+- [ClickJacking](https://github.com/0wlsec/Vuln-Review/blob/main/ClickJacking.md)
 - [Deserialization](https://github.com/0wlsec/Vuln-Review/blob/main/Deserialization.md)
 - [Host Header Injection](https://github.com/0wlsec/Vuln-Review/blob/main/Host%20Header%20Injection.md)
 - [JSONP](https://github.com/0wlsec/Vuln-Review/blob/main/JSONP.md)
