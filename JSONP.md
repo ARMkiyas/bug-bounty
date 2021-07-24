@@ -1,1 +1,11 @@
 
+- 🔥 [01 新浪微博-JSONP劫持](https://hackerone.com/reports/590020)
+- 🔥 [02 中国联通某站jsonp接口跨域导致信息泄漏](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0172305)
+- 🔥 [03 新浪微博-JSONP劫持之-微博蠕虫](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0171499)
+- 🔥 [04 fanwe O2O用户密码可劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0124949)
+- 🔥 [05 唯品会某处JSONP+CSRF致信息泄露](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0122755)
+- 🔥 [06 迅雷某站jsonp劫持漏洞泄漏会话ID，cookie](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0121639)
+- 🔥 [07 京东商城JSONP+CSRF导致某处信息泄露](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0121266)
+- 🔥 [08 苏宁易购jsonp漏洞泄露用户姓名、地址、订单商品](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0118712)
+- 🔥 [09 利用JSONP劫持可以泄漏QQ号](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-065177)
+- 🔥 [10 京东商城某处jsonp接口可泄露任意用户的搜索记录](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2013-044210)
