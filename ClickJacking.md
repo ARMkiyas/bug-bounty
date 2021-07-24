@@ -1,1 +1,11 @@
+- 🔥 [01 Bilibili 多处 CSRF 及点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0156134)
+- 🔥 [02 邮箱大师和网易邮箱Android客户端标签过滤不全可点击劫持攻击](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0108480)
+- 🔥 [03 站酷网全站点多处功能设计缺陷导致点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0106166)
+- 🔥 [04 36氪科技博客某处功能设计缺陷导致点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0106181)
+- 🔥 [05 新浪博客关注功能设计缺陷导致点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0106173)
+- 🔥 [06 小米官方网站首页功能设计缺陷导致点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0106192)
+- 🔥 [07 UI中国全站点多处功能设计缺陷导致点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0106051)
+- 🔥 [08 百度贴吧点击劫持](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-098802)
+- 🔥 [09 腾讯微博关注功能点击劫持漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2013-019063)
+- 🔥 [10 新浪微博点击劫持刷粉丝](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-048468)
 
