@@ -1,4 +1,37 @@
 - 🔥 [01 XXE through injection of a payload in the XMP metadata of a JPEG file](https://hackerone.com/reports/836877)
-- 🔥 [02 WooYun-2016-171295(用友某软件存在通用XXE漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0171295.html)
-- 🔥 [03 WooYun-2016-167778(用友致远A8协同系统XML实体注入漏洞)](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0167778.html)
-- 🔥
+- 🔥 [02 用友某软件存在通用XXE漏洞](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0171295.html)
+- 🔥 [03 用友致远A8协同系统XML实体注入漏洞](https://wooyun.x10sec.org/static/bugs/wooyun-2016-0167778.html)
+- 🔥 [04 满堂红集团Blind XXE](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0208973)
+- 🔥 [05 搜狗某站文件读取/列目录(Java环境Blind XXE)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0210560)
+- 🔥 [06 中国电信某省系统Blink XXE](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0205725)
+- 🔥 [07 搜狐焦点主站Blind XXE](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0203510)
+- 🔥 [08 利用网易一处XXE盲注实现文件内容读取](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0203048) ⭐
+- 🔥 [09 74cms_20160329及前面版本存在xxe二次注入](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0195271) 
+- 🔥 [10 汉启科技智能邮件系统一个XXE文件读取引发的血案](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0188569) ⭐⭐
+- 🔥 [11 唯品会某系统存在远程XXE读取任意文件漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0188574)
+- 🔥 [12 驴妈妈旅游网某业务系统存在XXE漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0188569)
+- 🔥 [13 TRS(ids新老版本)设计缺陷(xxe/用户信息泄露包括密码等)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0188473)
+- 🔥 [14 101远程教育网某分站存在Blind XXE 漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0169193)
+- 🔥 [15 国际php框架slim架构上存在XXE漏洞（XXE的典型存在形式](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0156208) ⭐
+- 🔥 [16 TRS WCM系统xxe实体注入漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0151954)
+- 🔥 [17 TRS portal个性化门户xxe实体注入漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0151900)
+- 🔥 [18 AOL Website XML External Entity(XXE) Vulnerabilit](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0148793)
+- 🔥 [19 国海证券官网任意文件读取(xxe漏洞)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0143929)
+- 🔥 [20 wemall微信开源PHP商城系统一处blind xxe](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0135615) ⭐
+- 🔥 [21 搜狗某平台Blind XXE漏洞(读取文件/SSRF/Struts2命令执行)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0135397) ⭐
+- 🔥 [22 百度某平台Blind XXE漏洞&可Bool型SSRF攻击](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0134057) ⭐
+- 🔥 [23 方维O2O商业系统SQL注入漏洞+XXE实体注入（demo验证）](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0122544) ⭐
+- 🔥 [24 招商证券root权限XXE漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0113722)
+- 🔥 [25 博客园某处XXE可下载任意文件](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0111828)
+- 🔥 [26 天弘基金某处XXE漏洞任意文件读取](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0110276)
+- 🔥 [27 中通某处XXE漏洞(可列目录可读文件)](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0110215)
+- 🔥 [28 用友某站root权限XXE](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-0107183)
+- 🔥 [29 Z-BLOG Blind-XXE造成任意文件读取](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2015-098591)
+- 🔥 [30 mallbuilder多用户商城系统XXE注入可以爆管理员用户密码](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-081144)
+- 🔥 [31 蘑菇街存在XXE漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-078509)
+- 🔥 [32 天翼云一处xxe漏洞可读取任意文件](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-077146) ⭐
+- 🔥 [33 Discuz! xxe 可破坏数据库结构，导致脏数据进入](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-076041)
+- 🔥 [34 鲜果网RSS导入Blind XXE漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-074069)
+- 🔥 [35 QQ邮箱XXE可读取任意文件](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-073439)
+- 🔥 [36 126邮箱应用中心XXE注入漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-069085)
+- 🔥 [37 从开源中国的某XXE漏洞到主站shell](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-059911)
