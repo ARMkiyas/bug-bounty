@@ -1,0 +1,2 @@
+- 🔥 [01 申通快递某系统存在XXE SQL注入](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2016-0215920)
+- 
