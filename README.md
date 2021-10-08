@@ -13,6 +13,7 @@ bugreader
 - [Command Injection](https://github.com/pen4uin/Vuln-Review/blob/main/Command%20Injection.md)
 - [ClickJacking](https://github.com/pen4uin/Vuln-Review/blob/main/ClickJacking.md)
 - [Deserialization](https://github.com/pen4uin/Vuln-Review/blob/main/Deserialization.md)
+- [Hosts Collision](https://github.com/pen4uin/Vuln-Review/blob/main/Hosts%20Collision.md)  `hosts碰撞`
 - [Host Header Injection](https://github.com/pen4uin/Vuln-Review/blob/main/Host%20Header%20Injection.md)
 - [JSONP](https://github.com/pen4uin/Vuln-Review/blob/main/JSONP.md)
 - [Info Disclosure](https://github.com/pen4uin/Vuln-Review/blob/main/Info%20Disclosure.md)
