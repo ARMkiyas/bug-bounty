@@ -24,4 +24,5 @@ bugreader
 - [SSRF](https://github.com/pen4uin/Vuln-Review/blob/main/SSRF.md)
 - [XSS](https://github.com/pen4uin/Vuln-Review/blob/main/XSS.md)
 - [XXE](https://github.com/pen4uin/Vuln-Review/blob/main/XXE.md)
+- [403 Bypass]()
 
