@@ -1,8 +1,8 @@
 # How to become a Bug Bounty Hunter
-> "跟随大牛，成为大牛，超越大牛".
+> "To follow the master、become the master."
 
 ### 漏洞案例
-*vuln/tricks reports from*：
+*vuln/tricks/writeups reports from*：
 ```
 wooyun 
 hackerone 
