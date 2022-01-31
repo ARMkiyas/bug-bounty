@@ -1,14 +1,47 @@
 
-## Reflected XSS
+##  XSS
 - 🔥 [01 Reflected XSS on www.hackerone.com and resources.hackerone.com](https://hackerone.com/reports/840759)
 - 🔥 [02 XSS in select attribute options](https://hackerone.com/reports/753567)
 - 🔥 [03 Prevent XSS when passing a parameter directly into link_to](https://hackerone.com/reports/755354)
 - 🔥 [04 Reflected XSS on https://apps.topcoder.com/wiki/page/](https://hackerone.com/reports/866433)
 - 🔥 [05 Reflected XSS on https://apps.topcoder.com/wiki/](https://hackerone.com/reports/866426)
 - 🔥 [06 Reflected XSS on https://apps.topcoder.com/wiki/pages/createpage.action](https://hackerone.com/reports/866576)
-
-
-
-## Stored XSS
-- 🔥 [01 Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679)
-- 🔥 [02 Potential stored Cross-Site Scripting vulnerability in Support Backend](https://hackerone.com/reports/858894)
+- 🔥 [07 Stored XSS on upload files leads to steal cookie](https://hackerone.com/reports/765679)
+- 🔥 [08 Potential stored Cross-Site Scripting vulnerability in Support Backend](https://hackerone.com/reports/858894)
+- 🔥 09 https://www.ryanpickren.com/safari-uxss
+- 🔥 10 https://blog.sonarsource.com/wordpress-stored-xss-vulnerability
+- 🔥 11 https://hakin9.org/xssmap-detect-xss-vulnerability-in-web-applications/
+- 🔥 12 https://swarm.ptsecurity.com/fuzzing-for-xss-via-nested-parsers-condition/
+- 🔥 13 https://omespino.com/write-up-xss-stored-in-files-slack-com-via-xml-svg-file-ios-1000-usd/
+- 🔥 14 https://zseano.medium.com/finding-xss-on-apple-com-and-building-a-proof-of-concept-to-leak-your-pii-information-d7bc93cff2df
+- 🔥 15 https://blog.shiftleft.io/find-reflected-xss-candidates-in-source-code-c6fcedc82cb0
+- 🔥 16 https://lethanhphuc-pk.medium.com/bugbounty-xss-with-markdown-exploit-fix-on-opensource-1baecebe9645
+- 🔥 17 https://vovohelo.medium.com/the-tale-of-cve-2021-34479-vscode-xss-b336ba6cf3d6?source=social.tw
+- 🔥 18 https://blog.isec.pl/all-is-xss-that-comes-to-the-net/
+- 🔥 19 https://0xjin.medium.com/new-xss-bypass-cloudflare-filters-2a878c01d312
+- 🔥 20 https://blog.isiraadithya.com/intigriti-1021-xss-challenge-solution-writeup/
+- 🔥 21 https://svennergr.github.io/writeups/google/ads_dom_xss/
+- 🔥 22 https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216
+- 🔥 23 https://blogs.opera.com/security/2021/09/8000-bug-bounty-highlight-xss-to-rce-in-the-opera-browser/
+- 🔥 24 https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3
+- 🔥 25 https://sudhanshur705.medium.com/solution-for-intigritis-august-xss-challenge-5d548911e0fe
+- 🔥 26 https://github.com/justinsteven/advisories/blob/master/2021_vscode_ipynb_xss_arbitrary_file_read.md
+- 🔥 27 https://infosecwriteups.com/exploiting-xss-with-cool-tricks-75a605a0115b
+- 🔥 28 https://melotover.medium.com/how-i-bypassed-a-tough-waf-to-steal-user-cookies-using-xss-da75f28108e4
+- 🔥 29 https://infosecwriteups.com/how-i-was-able-to-bypass-cloudflare-for-xss-e94cd827a5d6?source=rss----7b722bfd1b8d---4
+- 🔥 30 https://github.com/pedrib/PoC/blob/master/advisories/Cisco/cisco_ise_rce.md
+- 🔥 31 https://hacklido.com/blog/252-xss-filter-evasion-and-waf-bypassing
+- 🔥 32 https://brutelogic.com.br/blog/building-xss-polyglots/
+- 🔥 33 https://movaxbx.ru/2020/11/30/escalating-xss-to-account-takeover/?noamp=available
+- 🔥 34 https://frichetten.com/blog/xss_in_aws_console/
+- 🔥 35 https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/
+- 🔥 36 https://www.immersivelabs.com/resources/blog/wagtail-xss-localstorage-account-hijack/
+- 🔥 37 https://github.com/theinfosecguy/QuickXSS
+- 🔥 38 https://noobx.in/blogs/how-i-was-able-to-inject-xss-payload-into-any-user-s-mailbox
+- 🔥 39 https://infosecwriteups.com/pwning-your-assignments-stored-xss-via-graphql-endpoint-6dd36c8a19d5
+- 🔥 40 https://bendtheory.medium.com/journeys-in-quoteless-and-multi-reflection-xss-b1d67bb0c5dd
+- 🔥 41 https://robertchen.cc/blog/2021/04/03/github-pages-xss
+- 🔥 42 https://melotover.medium.com/how-i-leveraged-xss-to-make-privilege-escalation-to-be-super-admin-e120b6090451
+- 🔥 43 https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b
+- 🔥 44 https://kunalkhubchandani.medium.com/how-i-was-rewarded-a-1000-bounty-after-abusing-file-upload-functionality-to-stored-xss-945a40ac6f94
+- 🔥 45 https://hackerone.com/reports/1392935
