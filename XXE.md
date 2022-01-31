@@ -35,3 +35,8 @@
 - 🔥 [35 QQ邮箱XXE可读取任意文件](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-073439)
 - 🔥 [36 126邮箱应用中心XXE注入漏洞](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-069085)
 - 🔥 [37 从开源中国的某XXE漏洞到主站shell](http://wy.zone.ci/bug_detail.php?wybug_id=wooyun-2014-059911)
+- 🔥 [38 XXE in SAML SSO Writeup - Bug Bounty](https://www.cyberick.com/post/xxe-in-saml-sso-writeup-bug-bounty)
+- 🔥 [39 Advanced XXE Exploitation](https://gosecure.github.io/xxe-workshop/)
+- 🔥 [40 Exploiting XXE with Excel](https://www.4armed.com/blog/exploiting-xxe-with-excel/)
+- 🔥 [41 WordPress XXE Vulnerability in Media Library – CVE-2021-29447](https://blog.wpsec.com/wordpress-xxe-in-media-library-cve-2021-29447/)
+
