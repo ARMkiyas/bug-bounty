@@ -1,0 +1,16 @@
+- 🔥 01 https://cloud.tencent.com/developer/article/1516377
+- 🔥 02、https://shreyas-gurjar.medium.com/how-i-hacked-into-pune-universitys-exam-teachers-portal-6c498d51e6ad
+- 🔥 03、https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae
+- 🔥 04、https://threatnix.io/blog/exploiting-csp-in-webkit-to-break-authentication-authorization/
+- 🔥 05、https://github.com/aufzayed/bugbounty/blob/main/account_takeover_checklist.md
+- 🔥 06、https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73
+- 🔥 07、https://medium.com/@basantkarki/how-i-was-able-to-bypass-the-rate-limit-using-case-sensitive-technique-41a0d7176b07
+- 🔥 08、https://pwnsauc3.medium.com/weaponizing-reflected-xss-to-account-takeover-ae8aeea7aca3
+- 🔥 09、https://sec-consult.com/blog/detail/forgot-password-taking-over-user-accounts-kaminsky-style/
+- 🔥 10、https://medium.com/@kalvik/account-takeover-a-bonus-vulnerability-3c2dc4e607ea
+- 🔥 11、https://blog.niksthehacker.com/account-takeovers-believe-the-unbelievable-bb98a0c251a4
+- 🔥 12、https://blog.assetnote.io/2021/06/27/uber-account-takeover-voicemail/
+- 🔥 13、https://medium.com/@zahirtariq/zero-click-account-takeover-32e888d13e73
+- 🔥 14、https://movaxbx.ru/2020/11/30/escalating-xss-to-account-takeover/?noamp=available
+- 🔥 15、https://infosecwriteups.com/unauthenticated-account-takeover-through-forget-password-c120b4c1141d
+- 🔥 16、https://hackerone.com/reports/1404612
