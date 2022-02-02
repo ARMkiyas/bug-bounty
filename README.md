@@ -2,18 +2,13 @@
 > "To follow the master、become the master."
 
 ### 漏洞案例
-*vuln/tricks/writeups reports from*：
-```
-wooyun 
-hackerone 
-bugreader 
-```
+- [Account Takeover](https://github.com/pen4uin/bug-bounty/blob/main/Account%20Takeover.md)
 - [CRLF](https://github.com/pen4uin/Vuln-Review/blob/main/CRLF.md)
 - [Code Injection](https://github.com/pen4uin/Vuln-Review/blob/main/Code%20Injection.md)
 - [Command Injection](https://github.com/pen4uin/Vuln-Review/blob/main/Command%20Injection.md)
 - [ClickJacking](https://github.com/pen4uin/Vuln-Review/blob/main/ClickJacking.md)
 - [Deserialization](https://github.com/pen4uin/Vuln-Review/blob/main/Deserialization.md)
-- [Hosts Collision](https://github.com/pen4uin/Vuln-Review/blob/main/Hosts%20Collision.md)  `hosts碰撞`
+- [Host Collision](https://github.com/pen4uin/Vuln-Review/blob/main/Hosts%20Collision.md)  
 - [Host Header Injection](https://github.com/pen4uin/Vuln-Review/blob/main/Host%20Header%20Injection.md)
 - [JSONP](https://github.com/pen4uin/Vuln-Review/blob/main/JSONP.md)
 - [Info Disclosure](https://github.com/pen4uin/Vuln-Review/blob/main/Info%20Disclosure.md)
@@ -22,9 +17,10 @@ bugreader
 - [SOAP](https://github.com/pen4uin/Vuln-Review/blob/main/SOAP.md)
 - [SQL Injection](https://github.com/pen4uin/Vuln-Review/blob/main/SQL%20Injection.md)
 - [SSRF](https://github.com/pen4uin/Vuln-Review/blob/main/SSRF.md)
+- [Subdomain Takeover](https://github.com/pen4uin/bug-bounty/blob/main/Subdomain%20Takeover.md)
 - [XSS](https://github.com/pen4uin/Vuln-Review/blob/main/XSS.md)
 - [XXE](https://github.com/pen4uin/Vuln-Review/blob/main/XXE.md)
-- [403 Bypass]()
+- [403 Bypass](https://github.com/pen4uin/bug-bounty/blob/main/403%20Bypass.md)
 
 ### 经验参考
 - [年轻人如何挖掘第一个RCE](https://mp.weixin.qq.com/s/3phgI8yaPns3Dx5oSkdeYg)
